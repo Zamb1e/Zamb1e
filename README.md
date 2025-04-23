@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Zamb1e/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Zamb1e/post-install-config)
+  - [osTicket: Installation](https://github.com/Zamb1e/osticket-installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Zamb1e/OsTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Zamb1e/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Zamb1e/configure-ad)
