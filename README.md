@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jephthe, an <a href="https://www.youtube.com/@Zamb1e/videos">Animator</a> and an IT Trainee</h1>
+<h1>Hello, I'm Jephthe, an <a href="https://www.youtube.com/@Zamb1e/videos">Animator</a> and an IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
